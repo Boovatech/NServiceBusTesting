@@ -1,0 +1,10 @@
+C:\Users\maksy\source\repos\NServiceBusTesting\Shared\bin\Debug\Shared.dll
+C:\Users\maksy\source\repos\NServiceBusTesting\Shared\bin\Debug\Shared.pdb
+C:\Users\maksy\source\repos\NServiceBusTesting\Shared\bin\Debug\NServiceBus.Core.dll
+C:\Users\maksy\source\repos\NServiceBusTesting\Shared\bin\Debug\NServiceBus.Core.pdb
+C:\Users\maksy\source\repos\NServiceBusTesting\Shared\bin\Debug\NServiceBus.Core.xml
+C:\Users\maksy\source\repos\NServiceBusTesting\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Users\maksy\source\repos\NServiceBusTesting\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\maksy\source\repos\NServiceBusTesting\Shared\obj\Debug\Shared.csproj.CopyComplete
+C:\Users\maksy\source\repos\NServiceBusTesting\Shared\obj\Debug\Shared.dll
+C:\Users\maksy\source\repos\NServiceBusTesting\Shared\obj\Debug\Shared.pdb
